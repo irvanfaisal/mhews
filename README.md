@@ -12,6 +12,8 @@ MHEWS (Multi-Hazard Early Warning System) is a web application for public about 
 - Disaster Historical Data in Indonesia
 - Indonesia Disaster Risk Index
 
+<p align="center"><img src="https://github.com/irvanfaisal/mhews/blob/main/screenshot.png" width="400"></p>
+
 ## Tech Stacks
 
 Website: <strong>Laravel</strong>, <strong>Javascript</strong>, <strong>Tailwind CSS</strong>, <strong>GIS</strong>, <strong>Leaflet</strong>
